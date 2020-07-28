@@ -1,0 +1,31 @@
+.row-header{
+  margin: 0px 0px;
+  padding: 0px;
+  border: 2px solid yellow;
+}
+.row-content{
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+
+}
+.jumbotron{
+  background: red!important;
+  color: green;
+}
+.footer{
+  background: yellow;
+  border: 2px solid red;
+
+}
+.row-footer{
+
+  border: 2px solid red;
+  padding: 50px 0px 50px 0px;
+}
+.container{
+  border: 2px solid yellow;
+}
+.check{
+  border: 2px solid blue;
+  padding: 0px 0px 0px 0px;
+}
